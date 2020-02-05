@@ -12,7 +12,7 @@ import (
 	"github.com/filecoin-project/lotus/build"
 	"github.com/filecoin-project/lotus/chain/types"
 	lcli "github.com/filecoin-project/lotus/cli"
-	"github.com/filecoin-project/lotus/lib/jsonrpc"
+	"github.com/filecoin-project/lotus/lib/jsonrpc2"
 	cid "github.com/ipfs/go-cid"
 	logging "github.com/ipfs/go-log"
 	"gopkg.in/urfave/cli.v2"

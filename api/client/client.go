@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/filecoin-project/lotus/api"
-	"github.com/filecoin-project/lotus/lib/jsonrpc"
+	"github.com/filecoin-project/lotus/lib/jsonrpc2"
 )
 
 // NewCommonRPC creates a new http jsonrpc client.
